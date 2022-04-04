@@ -6,6 +6,7 @@ void main() {
   /// (Tsikl masalalari) => for masalalari
 /*
   // 1 - masala
+
   print('K soni N marta chiqaruvchi');
   print('K sonini kiriting');
   num k = num.parse(stdin.readLineSync()!);
